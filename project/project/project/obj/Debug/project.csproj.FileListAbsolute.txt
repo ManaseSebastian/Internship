@@ -1,0 +1,6 @@
+D:\Facultate\An III (Semestrul II)\Z Internship\Ddroidd\project\project\project\bin\Debug\project.exe.config
+D:\Facultate\An III (Semestrul II)\Z Internship\Ddroidd\project\project\project\bin\Debug\project.exe
+D:\Facultate\An III (Semestrul II)\Z Internship\Ddroidd\project\project\project\bin\Debug\project.pdb
+D:\Facultate\An III (Semestrul II)\Z Internship\Ddroidd\project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\Facultate\An III (Semestrul II)\Z Internship\Ddroidd\project\project\project\obj\Debug\project.exe
+D:\Facultate\An III (Semestrul II)\Z Internship\Ddroidd\project\project\project\obj\Debug\project.pdb
